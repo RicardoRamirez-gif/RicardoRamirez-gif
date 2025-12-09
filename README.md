@@ -18,14 +18,13 @@
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineer** with a strong background in **Mining & Industrial Engineering**. Based in **Vancouver, BC**, I specialize in translating complex physical and geospatial data into robust software solutions.
+I am a **Software Engineer** specializing in **Backend and Development** and **Geospatial Data Engineering**. Leveraging a strong foundation in **Mining & Industrial Engineering**, I excel at translating complex, real-world constraints and physical data into **robust software solutions**.
 
-My experience ranges from handling **sensor data (C++)** and **ETL pipelines** to building modern web interfaces and managing large-scale **spatial databases**. I don't just write code; I engineer systems that solve real-world industrial problems.
+My core experience focuses on designing and implementing **ETL pipelines**, architecting **scalable spatial databases**, and building **full-stack solutions** to solve industrial problems. I focus on engineering systems for reliability, performance, and data integrity.
 
 - 🔭 I’m currently working on: **Mining Legal Docs Extractor (NLP & OCR)**
 - 🧠 Core focus: **Backend Development, Geospatial Intelligence (GIS), and Data Engineering.**
 - 📍 Location: **Vancouver, Canada 🇨🇦**
-
 ---
 
 ### 🛠️ Tech Stack
