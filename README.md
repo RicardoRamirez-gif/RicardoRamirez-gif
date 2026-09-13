@@ -24,7 +24,7 @@ My core experience focuses on designing and implementing **ETL pipelines**, arch
 
 - 🔭 I’m currently working on: **Mining Legal Docs Extractor (NLP & OCR)**
 - 🧠 Core focus: **Backend Development, Geospatial Intelligence (GIS), and Data Engineering.**
-- 📍 Location: **Vancouver, Canada 🇨🇦**
+- 📍 Location: **Calgary, Canada 🇨🇦**
 ---
 
 ### 🛠️ Tech Stack
