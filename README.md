@@ -64,9 +64,17 @@ My core experience focuses on designing and implementing **ETL pipelines**, arch
 </p>
 
 ---
+
+### ⚙️ Frameworks & Technologies
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,python,fastapi,nodejs,postgres,docker,tailwind,git,github&perline=6" />
+</div>
+
 ### 📊 GitHub Stats & Coding Activity
 
 <div align="center">
+
 
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRamirez-gif&layout=compact&langs_count=10&size_weight=0&count_weight=1&theme=tokyonight&hide_border=true"
