@@ -64,6 +64,27 @@ My core experience focuses on designing and implementing **ETL pipelines**, arch
 </p>
 
 ---
+### 📊 GitHub Stats & Coding Activity
+
+<div align="center">
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoRamirez-gif&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    alt="Most Used Languages"
+    height="190"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RicardoRamirez-gif&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
+    height="190"
+  />
+
+</div>
+
+---
+
+---
 
 ### 🚀 Featured Projects
 
