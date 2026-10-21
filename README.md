@@ -81,12 +81,6 @@ My core experience focuses on designing and implementing **ETL pipelines**, arch
   alt="Most Used Languages"
 />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RicardoRamirez-gif&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub Statistics"
-    height="190"
-  />
-
 </div>
 
 ---
